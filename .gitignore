@@ -1,0 +1,30 @@
+# 本地环境文件夹
+.venv/
+
+# IDE 配置文件
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 编译产物
+__pycache__/
+*.pyc
+
+# 依赖管理文件
+uv.lock
+
+# 日志文件
+*.log
+
+# 测试覆盖率报告
+coverage/
+.coverage
+
+# 临时文件
+tmp/
+temp/
